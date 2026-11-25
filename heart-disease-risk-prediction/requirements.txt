@@ -1,0 +1,7 @@
+# Pinned to the exact versions tested on this project (Windows, Python 3.14).
+# Install once:  python -m pip install -r requirements.txt
+streamlit==1.67.0
+pandas==3.1.1
+numpy==2.5.5
+scikit-learn==1.9.1
+joblib==1.6.0
